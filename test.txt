@@ -1,0 +1,13 @@
+## install env
+conda env create -f folder_path\bot_multi\requirement.yml
+activate chat
+
+## bot_cpu
+python folder_path\bot-chat\bot_cpu\bot_cpu.py folder_path
+
+# test
+http://host_ip/port_ip/updatefaq
+http://host_ip/port_ip/load_model
+http://host_ip/port_ip/updatemodel
+
+http://host_ip/port_ip/dscbot?text=瀏覽器打不開
