@@ -1,5 +1,5 @@
 ## install env
-conda env create -f folder_path\bot_multi\requirement.yml
+conda env create -f folder_path\bot_cpu\requirement.yml
 activate chat
 
 ## bot_cpu
